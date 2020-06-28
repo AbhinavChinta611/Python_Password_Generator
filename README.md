@@ -1,0 +1,2 @@
+# Python_Password_Generator
+Having a weak password is not good for a system which demands high confidentiality and security of user credentials. It turns out that people find it difficult making up a strong password which is strong enough to prevent unauthorized users from memorizing it. This article use a mixture of numbers, alphabets and other symbols found on the computer keyboard to form a 12-character password which is unpredictable and cannot easily be memorized.
